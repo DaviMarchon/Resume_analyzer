@@ -11,7 +11,7 @@ Este projeto tem como propósito demonstrar o uso prático de análise textual e
 ## Objetivos do Projeto
 - Facilitar o processo de triagem de currículos.
 - Reduzir o tempo de recrutamento inicial.
-- Aumentar meu portifólio como desenvolvedor
+- Aumentar meu portifolio como desenvolvedor.
 
 ---
 
