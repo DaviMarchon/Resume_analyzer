@@ -1,7 +1,7 @@
-# Analisador de Currículos
+# Resume Analyzer
 
 ## Descrição
-O **Analisador de Currículos** é um projeto desenvolvido em Python com o objetivo de automatizar a leitura e análise de currículos em formato PDF.  
+O **Resume Analyzer** é um projeto desenvolvido em Python com o objetivo de automatizar a leitura e análise de currículos em formato PDF.  
 Utilizando técnicas de Processamento de Linguagem Natural (NLP), o sistema é capaz de extrair informações relevantes como nome, e-mail, telefone, habilidades e experiências profissionais, além de comparar o conteúdo do currículo com a descrição de uma vaga.
 
 Este projeto tem como propósito demonstrar o uso prático de análise textual e Machine learning em um contexto real de Recursos Humanos.
